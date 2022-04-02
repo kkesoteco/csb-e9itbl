@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://kkesoteco.github.io/csb-e9itbl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kkesoteco.github.io/csb-e9itbl/static/js/main.5eb53dcc.chunk.js",
+    "main.js.map": "https://kkesoteco.github.io/csb-e9itbl/static/js/main.5eb53dcc.chunk.js.map",
+    "runtime-main.js": "https://kkesoteco.github.io/csb-e9itbl/static/js/runtime-main.74678c5d.js",
+    "runtime-main.js.map": "https://kkesoteco.github.io/csb-e9itbl/static/js/runtime-main.74678c5d.js.map",
+    "static/js/2.f3bc54a3.chunk.js": "https://kkesoteco.github.io/csb-e9itbl/static/js/2.f3bc54a3.chunk.js",
+    "static/js/2.f3bc54a3.chunk.js.map": "https://kkesoteco.github.io/csb-e9itbl/static/js/2.f3bc54a3.chunk.js.map",
+    "index.html": "https://kkesoteco.github.io/csb-e9itbl/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kkesoteco.github.io/csb-e9itbl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f3bc54a3.chunk.js.LICENSE.txt": "https://kkesoteco.github.io/csb-e9itbl/static/js/2.f3bc54a3.chunk.js.LICENSE.txt",
+    "static/media/zingalify.698f4050.svg": "https://kkesoteco.github.io/csb-e9itbl/static/media/zingalify.698f4050.svg",
+    "static/media/zingashop.ee71753c.svg": "https://kkesoteco.github.io/csb-e9itbl/static/media/zingashop.ee71753c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74678c5d.js",
+    "static/js/2.f3bc54a3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5eb53dcc.chunk.js"
+  ]
+}
